@@ -6,6 +6,7 @@ public class Main {
 
 
         int tito=20;
+        int tete=40;
 
         System.out.println(tito);
 
